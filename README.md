@@ -9,3 +9,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent a day debugging a node server only to find out I m missing a dash at one place.
 
+https://github-readme-stats.vercel.app/api?username=mayankjx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+
