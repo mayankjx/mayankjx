@@ -15,6 +15,7 @@
 
 ## 🚀 Languages and Tools:
 
+### Programming
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,8 +27,13 @@
 <p>&nbsp;</p>
 <img align="left" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="">
 <img align="left" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="">
+<br/>
+<p>&nbsp;</p>
+### Art and Design
 <img align="left" src="https://img.shields.io/badge/AfterEffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="">
 <img align="left" src="https://img.shields.io/badge/AfterPremiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="">
+<img align="left" src="https://img.shields.io/badge/AfterIllustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="">
+
 
 
 
