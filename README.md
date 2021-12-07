@@ -29,6 +29,7 @@
 <img align="left" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="">
 <br/>
 <p>&nbsp;</p>
+
 ### Art and Design
 <img align="left" src="https://img.shields.io/badge/AfterEffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="">
 <img align="left" src="https://img.shields.io/badge/AfterPremiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="">
