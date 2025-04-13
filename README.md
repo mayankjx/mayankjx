@@ -3,13 +3,13 @@
   
 - 📁 My portfolio website [portfolio](https://mayank-jhavre.netlify.app/)  
   
-- 🌱 I’m currently learning **React**  
+- 🌱 I’m currently learning **Springboot**  
   
 - 👯 I’m looking to collaborate in **open source**  
   
 - 🤝 I’m looking for help with **React**  
   
-- 💬 Ask me about **Vue, Javascript**  
+- 💬 Ask me about **Javascript, Java**  
   
 - 📫 How to reach me **prototype.mayank@gmail.com**  
   
